@@ -1,0 +1,16 @@
+{
+  "name": "fb3",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prismarine-auth": "^3.1.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
